@@ -8,10 +8,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CocoaPods_PrivateResposition_demo'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A short description of CocoaPods_PrivateResposition_demo.'
 
-# This description is used to generate tags and improve search results.
+# This description is used to https://github.com/TouchFriend/CocoaPods_PrivateResposition_demogenerate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/1604181058@qq.com/CocoaPods_PrivateResposition_demo'
+  s.homepage         = 'https://github.com/TouchFriend/CocoaPods_PrivateResposition_demo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1604181058@qq.com' => '1604101058@qq.com' }
